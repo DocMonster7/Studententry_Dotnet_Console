@@ -1,4 +1,3 @@
-# Studententry_Dotnet_Console
 Simple dotnet console programs to learn the basics of C#
 ===
 ## How to use?
